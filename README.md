@@ -107,9 +107,7 @@ erDiagram
 
 ### The GraphQL API
 
-TK
-
-The mutation `updateQuestionAnswer` is provided to write answers back.
+Reading data goes through the existing `Company` GraphQL type. The mutation `updateQuestionAnswer` is provided to write answers back.
 
 #### GraphQL Schema
 
